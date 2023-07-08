@@ -35,13 +35,13 @@
     "Image_exit": "",
     "link_exit": "",
 
-    "privacy" : "https://policies.google.com/privacy?hl=en-US",
-    "url_exit": "https://www.google.com/",
-    "url_bottom_coins": "https://www.google.com/",
+    "privacy" : "",
+    "url_exit": "",
+    "url_bottom_coins": "",
 
-    "Text_tips1": "Welcome ruStore APP",
+    "Text_tips1": "Welcome Our APP",
     "Text_tips2": " App Recommendations and Reviews",
-    "Text_tips3": "Performance Tips Rustore",
+    "Text_tips3": "Performance Tips ",
     "Text_tips4": "Task  and Productivity",
     "Text_tips5": " Problem Solving",
     "Text_tips6": "Rustore Education and Resources ",
@@ -49,14 +49,14 @@
     "Text_tips8": " Community and Discussion",
 
 
-    "Text_title1": "the accessibility features and special capabilities of your Android device with RuStore Android-приложение-гид's dedicated section",
-    "Text_title2": "ask questions, and seek support through RuStore Android-приложение-гид's",
-    "Text_title3": "Stay up-to-date with the latest Android updates and features using RuStore Android-",
-    "Text_title4": "ruStore has a huge history ",
-    "Text_title5": "Rustore App prioritizes the security and privacy of its users",
-    "Text_title6": "Stay informed with Rustore App's ",
-    "Text_title7": "Rustore offers a robust portfolio management  ",
-    "Text_title8": "ruStore in history and place",
+    "Text_title1": "the accessibility features and special capabilities of your Android device with dedicated section",
+    "Text_title2": "ask questions, and seek support through ",
+    "Text_title3": "Stay up-to-date with the latest Android updates and features using TOTO APP",
+    "Text_title4": "toto has a huge history ",
+    "Text_title5": "toto prioritizes the security and privacy of its users",
+    "Text_title6": "Stay informed with toto ",
+    "Text_title7": "toto offers a robust portfolio management  ",
+    "Text_title8": "toto in history and place",
 
 
     "Text_buttonCoins" : "Male ",
